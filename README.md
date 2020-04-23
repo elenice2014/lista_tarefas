@@ -1,4 +1,4 @@
-# lista_tarefas
+# Lista de Tarefas
 App simples para listar tarefas do dia-a-dia
 
 
